@@ -1,4 +1,4 @@
-<<<<<<< .mine
+
 test
 
 commit in 20170510
@@ -7,13 +7,8 @@ commit in 20170510
 
 update in origin/master
 
-=======
-test
-
-commit in 20170510
+makesom¶îæÏ¶ğ
+ 
 
 
-update in origin/master
 
-
->>>>>>> .theirs
