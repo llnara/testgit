@@ -1,8 +1,3 @@
 what is love ?
 new a.txt
-what is love 2?
-
-
-do something in dev
-
-do more in branch dev
+what is love?
